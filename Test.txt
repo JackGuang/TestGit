@@ -1,5 +1,0 @@
-this is a test git demo file, you can add anything if you want,
-but you should obey principle
-
-#simple tips
-#1, please update something before you submit anything
